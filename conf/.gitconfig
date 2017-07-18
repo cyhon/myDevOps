@@ -1,0 +1,26 @@
+[user]
+	name = linhaitao
+	email = linhaitao@finogeeks.com
+[color]
+	ui = auto
+[core]
+	editor = vim
+	autocrlf = false
+[url "ssh://git@git.finogeeks.club:2222"]
+	insteadOf = ssh://git.finogeeks.club
+[url "ssh://git@git.finogeeks.club:2222"]
+	insteadOf = https://git.finogeeks.club
+#[remote "origin"]
+#	push = refs/heads/*:refs/heads/*
+[push]
+	default = upstream
+#[http]
+#	proxy = http://proxy.finogeeks.club:3128
+[alias]
+    cl = clone
+    cm = commit
+    co = checkout
+    br = branch
+    st = status
+    cp = cherry-pick
+

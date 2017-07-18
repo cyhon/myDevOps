@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/Users/linhaitao/projs/hippo/hippo-server/hippo-connector'
+let g:netrw_dirhist_2='/Users/linhaitao/projs/linhaitao/riemann-test/riemann/log'
+let g:netrw_dirhist_3='/Users/linhaitao/rancher-catalog/templates/cheetah-auto/0'
+let g:netrw_dirhist_4='/Users/linhaitao/projs/gfcloud/rancher-catalog/service_template/msgDepthReport'
+let g:netrw_dirhist_5='/Users/linhaitao/projs/gfcloud/rancher-catalog/service_template/riemann/riemann-receiver'
+let g:netrw_dirhist_6='/Users/linhaitao/projs/test/BTest/.git'
+let g:netrw_dirhist_7='/Users/linhaitao/projs/gitlab/NewQuote/se-codec/vendor'
